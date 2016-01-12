@@ -9,13 +9,17 @@ body, p, div, a {
   box-sizing: border-box;
 }
 
+p {
+  margin-bottom: 20px;
+}
+
 .header {
   margin: 0 auto;
   margin-top: 40px;
-  max-width: 600px;
+  max-width: 550px;
   width: 100%;
   text-align: center;
-  padding: 40px;
+  padding: 40px 40px 0px 40px;
   box-sizing: border-box;
 }
 
