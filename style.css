@@ -12,7 +12,7 @@ body, p, div, a {
 .header {
   margin: 0 auto;
   margin-top: 40px;
-  max-width: 550px;
+  max-width: 600px;
   width: 100%;
   text-align: center;
   padding: 40px;
@@ -35,8 +35,7 @@ body, p, div, a {
 }
 
 .site_logo {
-  width: 347px;
-  height: 84px;
+  width: 200px;
 }
 
 .wufoo .info h2 {
